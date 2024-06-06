@@ -1,0 +1,17 @@
+[tool.poetry]
+name = "multi-label machine learning models to Generate Recommendations for Smart Home"
+version = "1.0"
+description = "Environments1"
+authors = ["Jander Junior, Diego Correa, Mayki Santos, Denis Boaventura, Eduardo Ferreira, Frederico Durão"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.10"
+pandas = "^2.2.2"
+numpy = "^1.26.4"
+scikit-learn = "^1.5.0"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
